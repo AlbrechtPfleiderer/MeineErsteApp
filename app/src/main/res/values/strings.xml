@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MeineErsteApp</string>
+    <string name="textView_titel1">Dies ist ein Text!</string>
+    <string name="button_gelb">Gelb</string>
+    <string name="botton_rot">Rot</string>
+    <string name="Button_Ende">Ende</string>
 </resources>
